@@ -1,5 +1,4 @@
 Author: Alsen Aligullu
-Candidate Number: 1806512
 Due Date: 27/08/2019
 Description:
 
